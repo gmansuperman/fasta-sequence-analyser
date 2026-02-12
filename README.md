@@ -53,7 +53,9 @@ python3 seq_analyser.py
 
 Make sure your FASTA file is named sample.fasta or modify the filename inside the script.
 
-🛠 Tech Stack
+---
+
+## Tech Stack
 
 Python 3
 
@@ -61,7 +63,8 @@ Command-line workflow
 
 Git & GitHub version control
 
-🔮 Future Improvements
+---
+## Future Improvements
 
 Add command-line argument support
 
@@ -75,7 +78,8 @@ Export results to CSV
 
 Integrate with Biopython
 
-📌 Author
+---
+## Author
 
 Kristian Gonzales
 BSc Microbiology | MBNF Bioinformatics candidate
