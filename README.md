@@ -82,5 +82,5 @@ Integrate with Biopython
 ## Author
 
 Kristian Gonzales
-BSc Microbiology | MBNF Bioinformatics candidate
+BSc Microbiology | Master of Bioinformatics
 University of Guelph
